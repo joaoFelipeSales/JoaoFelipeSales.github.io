@@ -232,5 +232,11 @@
     .skills-box i {
       font-size: 60px;
     }
-  
+
+    .links-container {
+      display: flex;
+      gap: 20px; /* Espaço entre os links */
+      margin-top: 10px; /* Espaço acima dos links, ajuste conforme necessário */
+    }
+      
   }
