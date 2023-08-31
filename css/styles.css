@@ -220,6 +220,7 @@
   
     #btn-projects {
       margin: 20px auto;
+      width: auto;
     }
   
     .skills-box {
