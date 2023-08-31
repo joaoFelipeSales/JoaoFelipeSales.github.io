@@ -220,7 +220,6 @@
   
     #btn-projects {
       margin: 20px auto;
-      width: auto;
     }
   
     .skills-box {
@@ -229,6 +228,13 @@
       margin-bottom: 40px;
       text-align: left;
     }
+    
+    .buttons-container {
+      display: flex;
+      gap: 15px; /* Espaçamento entre os botões */
+      margin-top: 20px; /* Ajuste a margem superior conforme necessário */
+    }
+    
   
     .skills-box i {
       font-size: 60px;
