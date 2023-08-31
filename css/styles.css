@@ -233,5 +233,11 @@
       font-size: 60px;
     }
   
+    .buttons-container {
+      display: flex; /* Exibir os botões em uma linha flexível */
+      gap: 15px; /* Espaçamento entre os botões */
+      margin-top: 20px; /* Ajuste a margem superior conforme necessário */
+    }
+    
       
   }
